@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Bhatt</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh07&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh07" /> </p>
 
@@ -7,13 +7,12 @@
 
 - 🔭 I’m working on [Connect Four Name](https://github.com/rishabhbhatt812/Project-ConnectToFourGame/tree/main/connectto4)
 
-- 🌱 I’m currently learning **React , JavaScript , App Development , Nodejs**
+- 🌱 I’m currently learning **React , JavaScript , App Development , Nodejs , Expressjs**
 
 - 👯 I’m working on [Mynta Clone](https://github.com/rishabhbhatt812/Myntra-Clone)
 
 - 🤝 I’m working on [Driver Drowsiness Detection](https://github.com/rishabhbhatt812/Driver-Drowsiness-Detection)
 
-- 👨‍💻 All of my projects are available at [https://rishabhbhattportfolio.netlify.app/](https://rishabhbhattportfolio.netlify.app/)
 
 - 📫 How to reach me **rishabhbhatt812@gmail.com**
 
