@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabh07" alt="rishabh07" /></a> </p>
 
-- 🔭 I’m working on [Connect Four Name](https://github.com/rishabhbhatt812/Project-ConnectToFourGame/tree/main/connectto4)
 
 - 🌱 I’m currently learning **React , JavaScript , App Development , Nodejs , Expressjs**
 
